@@ -1,2 +1,6 @@
 # Test_Game
-Test repository for unity projects
+
+Laser Defender is a game based on space invaders and other shoot-em up games.
+
+This project is currently being made by following the complete 2D unity course by gamedev.tv
+
